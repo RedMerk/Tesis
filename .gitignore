@@ -1,2 +1,9 @@
 # Ignorar la carpeta de tsv Generación CEN
 /1. Datos de entrada/Generacion/Datos_CEN/*.tsv
+
+# Ignorar las carpetas de outputs
+/a. Estudio Principal/a. Procesamiento de datos/Output/*.parquet
+/a. Estudio Principal/a. Procesamiento de datos/Figures/*
+
+# Ignorar el IPLP de la carpeta Datos de entrada
+/1. Datos de entrada/CEN/IPLP*
